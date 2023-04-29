@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am into Machine Learning + Materials. Reach me at utkarsp1161@gmail.com
+
+[My github page](https://utkarshp1161.github.io/UtkarshsAIInScience.github.io/)
+
+![](md.gif)
+
+![](https://komarev.com/ghpvc/?username=utkarshp1161)
 
 <!--
 **utkarshp1161/utkarshp1161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
