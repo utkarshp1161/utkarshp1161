@@ -5,7 +5,7 @@ I am into Machine Learning + Materials. Reach me at utkarsp1161@gmail.com
 
 ![](md.gif)
 
-Wanna know what is the above gif about? checkout the code [here](https://github.com/utkarshp1161/CVL867_assignment_sol/tree/main/Assignment_3_sol)
+
 <!-- 
 ![](https://komarev.com/ghpvc/?username=utkarshp1161) -->
 
